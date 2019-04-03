@@ -1,0 +1,34 @@
+ADDED ELEMENT 33 TO THE RIGHT
+ADDED ELEMENT 57 TO THE RIGHT
+ADDED ELEMENT 85 TO THE LEFT
+ADDED ELEMENT 62 TO THE LEFT
+ADDED ELEMENT 95 TO THE RIGHT
+62 >> 85 >> 33 >> 57 >> 95
+95 << 57 << 33 << 85 << 62
+57 REMOVED FROM LIST
+33 REMOVED FROM LIST
+33 NOT FOUND IN LIST
+62 REMOVED FROM LIST
+ADDED ELEMENT 22 TO THE RIGHT
+95 REMOVED FROM LIST
+85 >> 22
+ADDED ELEMENT Ford with 4 doors TO THE LEFT
+ADDED ELEMENT Ford with 2 doors TO THE RIGHT
+ADDED ELEMENT GMC with 2 doors TO THE LEFT
+ADDED ELEMENT RAM with 2 doors TO THE LEFT
+ADDED ELEMENT Chevy with 3 doors TO THE LEFT
+List Size: 5
+Chevy with 3 doors >> RAM with 2 doors >> GMC with 2 doors >> Ford with 4 doors >> Ford with 2 doors
+Ford with 0 doors REMOVED FROM LIST
+List Size: 4
+Chevy with 3 doors >> RAM with 2 doors >> GMC with 2 doors >> Ford with 2 doors
+ADDED ELEMENT 
+3 doors and 6 engine plane by Boeing TO THE RIGHT
+ADDED ELEMENT 
+2 doors and 1 engine plane by Piper TO THE RIGHT
+ADDED ELEMENT 
+4 doors and 4 engine plane by Cessna TO THE RIGHT
+Chevy with 3 doors >> RAM with 2 doors >> GMC with 2 doors >> Ford with 2 doors >> 
+3 doors and 6 engine plane by Boeing >> 
+2 doors and 1 engine plane by Piper >> 
+4 doors and 4 engine plane by Cessna

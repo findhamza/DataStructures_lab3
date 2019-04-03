@@ -1,0 +1,16 @@
+into carList
+insert car Ford 4 rear
+insert car Ford 2 front
+insert car GMC 2 rear
+insert car RAM 2 rear
+insert car Chevy 3 front
+print count
+print forward
+delete car Ford any 
+print count
+print forward
+into planeList
+insert plane Boeing 3 6 front
+insert plane Piper 2 1 front
+insert plane Cessna 4 4 front
+print forward

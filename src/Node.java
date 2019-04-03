@@ -1,3 +1,6 @@
+//Author: Hamza Syed
+//Class: COSC3319
+//Lab 3 Option A
 
 public class Node {
 
@@ -19,7 +22,7 @@ public class Node {
 		this.obj = obj;
 	}
 	
-	Node(Node next, Node prev, Object obj)
+	Node(Node prev, Object obj, Node next)
 	{
 		this.next = next;
 		this.prev = prev;
@@ -51,8 +54,13 @@ public class Node {
 		this.obj = obj;
 	}
 	
-	public Object GetItem()
+	public Object GetObj()
 	{
 		return obj;
+	}
+	
+	public String GetItem()
+	{
+		return obj.toString();
 	}
 }
